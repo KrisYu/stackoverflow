@@ -7,3 +7,8 @@ imagePickerDemo Result:
 
 
 ![](https://github.com/KrisYu/stackoverflow/blob/master/imagePickerDemo/imgePickerDemo.gif?raw=gif)
+
+
+
+faceDetectionDemo2 Result:
+
