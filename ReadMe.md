@@ -2,13 +2,18 @@
 
 Just some answers to stackoverflow questions.
 
-imagePickerDemo Result:
+#####faceDetectionDemo2 Result:
+
+![](https://github.com/KrisYu/stackoverflow/blob/master/faceDetectionDemo2/dt.gif?raw=true)
+
+
+
+
+#####imagePickerDemo Result:
 
 
 
 ![](https://github.com/KrisYu/stackoverflow/blob/master/imagePickerDemo/imgePickerDemo.gif?raw=gif)
 
 
-
-faceDetectionDemo2 Result:
 
